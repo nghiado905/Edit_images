@@ -1,0 +1,14 @@
+.venv-vosr/
+.venv-qwen/
+models/
+.cache/
+__pycache__/
+output/
+VOSR/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.safetensors
+*.gguf
+download_plan.json
